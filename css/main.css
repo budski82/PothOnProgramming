@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&familt=Ralwat&display=swap');
+/*  font-family: 'Permanent Marker',cursive; font-family: 'Raleway',sans-serif; */
+
+* { margin: 0; padding: 0;}
+
+html, body {
+    background: #3438;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
