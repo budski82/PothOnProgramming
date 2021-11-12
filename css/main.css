@@ -1,15 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&familt=Ralwat&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&familt=Ralwat&display=swap");
 /*  font-family: 'Permanent Marker',cursive; font-family: 'Raleway',sans-serif; */
 
-* { margin: 0; padding: 0;}
+* {
+  margin: 0;
+  padding: 0;
+}
 
-html, body {
-    background: #3438;
-    font-family: 'Raleway', sans-serif;
+html,
+body {
+  background: #75757588;
+  font-family: "Raleway", sans-serif;
+  width: auto;
+  height: 100%;
 }
 
 body {
-    display: grid;
-    justify-content: center;
-    align-items: center;
+  display: grid;
+  justify-items: center;
+  align-items: center;
 }
