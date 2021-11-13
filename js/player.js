@@ -14,9 +14,9 @@
 
     loop =()=>
     {
-        window.requestAnimationFrame(loop)
-        ;
-    draw();
+        window.requestAnimationFrame(loop);
+        
+      draw();
     }
 
     display.canvas.width  = world_width;
